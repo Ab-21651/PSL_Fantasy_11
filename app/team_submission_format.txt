@@ -1,0 +1,30 @@
+Expected request body format for POST /fantasy/matchday/team:
+
+{
+  "match_id": "uuid-string",
+  "team_name": "My Team Name",
+  "player_ids": [
+    "player-id-1",
+    "player-id-2",
+    "player-id-3",
+    "player-id-4",
+    "player-id-5",
+    "player-id-6",
+    "player-id-7",
+    "player-id-8",
+    "player-id-9",
+    "player-id-10",
+    "player-id-11"
+  ],
+  "captain_id": "player-id-1",
+  "vice_captain_id": "player-id-2"
+}
+
+Common issues:
+- Missing match_id
+- Missing team_name
+- player_ids not an array
+- Less than 11 players
+- captain_id not in player_ids
+- vice_captain_id not in player_ids
+- Field names wrong (e.g., "players" instead of "player_ids")

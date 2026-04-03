@@ -1,0 +1,21 @@
+STEP 1 - Delete all recent_form entries for 2026:
+
+DELETE FROM recent_form WHERE season = '2026';
+
+STEP 2 - Delete all career_stats entries for 2026:
+
+DELETE FROM career_stats WHERE season = '2026';
+
+STEP 3 - Verify they're deleted (should return 0):
+
+SELECT COUNT(*) FROM recent_form WHERE season = '2026';
+
+STEP 4 - Verify career stats deleted (should return 0):
+
+SELECT COUNT(*) FROM career_stats WHERE season = '2026';
+
+After running these 4 queries in Supabase, then run:
+
+Delete old CSV file: del match_results_2026.csv
+Re-scrape: python scrape_cricinfo.py
+Re-seed: python seed_match_results.py
