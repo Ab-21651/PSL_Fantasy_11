@@ -18,6 +18,7 @@ export default defineConfig(({ mode }) => ({
       "@": path.resolve(__dirname, "./"),
       "src": path.resolve(__dirname, "./"),
     },
+    extensions: [".js", ".jsx", ".ts", ".tsx", ".json"],
     dedupe: ["react", "react-dom", "react/jsx-runtime", "react/jsx-dev-runtime", "@tanstack/react-query", "@tanstack/query-core"],
   },
 }));
