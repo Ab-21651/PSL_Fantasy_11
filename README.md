@@ -57,7 +57,7 @@
 
 | Dashboard | Team Selection | Leaderboard |
 |-----------|---------------|-------------|
-| ![Dashboard](docs/screenshots/dashboard.png) | ![Team](docs/screenshots/team.png) | ![Leaderboard](docs/screenshots/leaderboard.png) |
+| ![Dashboard](dashboard.jpeg) | ![Team](Tean Selection.jpeg) | ![AI Assistant](AI ASSISTANT.jpeg) |
 
 ---
 
@@ -74,7 +74,7 @@
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/YOUR_USERNAME/psl-fantasy-cricket.git
+   git clone https://github.com/Ab-2165/psl-fantasy-cricket.git
    cd psl-fantasy-cricket
    ```
 
@@ -303,9 +303,9 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ## 📧 Contact
 
-**Developer:** [Your Name]  
-**Email:** your.email@example.com  
-**GitHub:** [@yourusername](https://github.com/yourusername)
+**Developer:** Abdullah Attique  
+**Email:** abdullah.attique.2005@example.com  
+**GitHub:** [AB-21651](https://github.com/Ab-21651)
 
 ---
 
@@ -315,6 +315,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ⭐ Star this repo if you like it!
 
-[Report Bug](https://github.com/yourusername/psl-fantasy-cricket/issues) • [Request Feature](https://github.com/yourusername/psl-fantasy-cricket/issues)
+[Report Bug](hhttps://github.com/Ab-21651) • [Request Feature](https://github.com/yourusername/psl-fantasy-cricket/issues)
 
 </div>
