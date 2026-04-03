@@ -55,9 +55,11 @@
 
 **Screenshots:**
 
-| Dashboard | Team Selection | Leaderboard |
-|-----------|---------------|-------------|
-| ![Dashboard](dashboard.jpeg) | ![Team](Tean Selection.jpeg) | ![AI Assistant](AI ASSISTANT.jpeg) |
+
+[Dashboard] ![dashboard](https://github.com/user-attachments/assets/8a0d61a4-1fc5-432e-b877-5581c086fefd)
+ [Team] ![Tean Selection](https://github.com/user-attachments/assets/5914d178-1ea4-435d-83ba-98b5f3f830d4)
+ [AI Assistant] ![AI ASSISTANT](https://github.com/user-attachments/assets/ceb44555-33cf-47af-a8fe-097402cea804)
+ 
 
 ---
 
@@ -286,11 +288,6 @@ Contributions are welcome! Please feel free to submit a Pull Request.
 
 ---
 
-## 📝 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
 
 ## 🙏 Acknowledgments
 
