@@ -49,18 +49,9 @@ venv/
 
 ### 2.2 Configure Environment Variables
 
-Railway will auto-detect it's a Python app. Now add these environment variables:
+Railway will auto-detect it's a Python app. 
 
-**Go to:** Project → Variables → Add Variables
 
-```env
-DATABASE_URL=postgresql+asyncpg://postgres.moobxfaujplxknwutmab:I$b21651tOOr@aws-1-ap-southeast-2.pooler.supabase.com:6543/postgres
-SECRET_KEY=cricmind_secret_key_2026_CHANGE_IN_PROD
-GROQ_API_KEY=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
-PORT=8000
-```
-
-**🔒 Security Note:** Change `SECRET_KEY` to a random 32+ character string for production.
 
 ### 2.3 Configure Build Settings
 
