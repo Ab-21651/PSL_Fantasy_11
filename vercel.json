@@ -22,9 +22,5 @@
       "src": "/(.*)",
       "dest": "app/frontend/dist/$1"
     }
-  ],
-  "env": {
-    "DATABASE_URL": "@database_url",
-    "SECRET_KEY": "@secret_key"
-  }
+  ]
 }
